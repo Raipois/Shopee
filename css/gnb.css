@@ -47,6 +47,7 @@
     background-color: white;
     border-radius: 2px;
     padding: 1px;
+    padding-left: 10px;
 }
 
 .search-box>input {
